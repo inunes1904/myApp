@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inunes1904/myApp/issues"
   },
-  "homepage": "https://github.com/inunes1904/myApp#readme"
+  "homepage": "https://github.com/inunes1904/myApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
