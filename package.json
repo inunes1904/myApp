@@ -1,0 +1,19 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inunes1904/myApp.git"
+  },
+  "author": "Ivo Nunes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inunes1904/myApp/issues"
+  },
+  "homepage": "https://github.com/inunes1904/myApp#readme"
+}
